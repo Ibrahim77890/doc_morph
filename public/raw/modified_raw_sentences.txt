@@ -1,0 +1,262 @@
+Done
+b'Industry Blueprint for Consumer Goods  Examine the Salesforce view of strategy, product innovation, and partner relationships to enable B2B and B2C business processes on an integrated platform in the consumer goods industry.
+The industry blueprint describes the end -to-end consumer goods customer lifecycle.
+Use the industry blueprint to understand how Salesforce Customer 360 platform capabilities help structure, organize, and support digital transformation.
+\xe2\x80\xa2 Map customer -facing business capabilities that are common to consumer goods stages of the customer lifecycle across planning, marketing, transacting, servicing, and the workforce experience.
+\xe2\x80\xa2 Determine which capabilities are most important to your organization, and prioritize implementation accordingly.
+\xe2\x80\xa2 Organize projects that deliver business value with maximum benefit.
+\xe2\x80\xa2 Gain alignment among key business process stakeholders.
+\xe2\x80\xa2 Understand the high -level platform capabilities and the Salesforce partners that power your organization's business needs.
+Contact your Salesforce account team or a Salesforce partner for help with assessing the business and platform capabilities most suited for your organization.
+http://res.cloudinary.com/dl5hzmrcz/image/upload/v1722341525/yh0av9clhlvhpoadlk2b.png   The typical lifecycle of a consumer goods customer relationship has five process groups.
+Each major process group contains a number of business processes that together fulfill a business need or industry imperative.
+\xe2\x80\xa2 Enable Agile Operations: Optimize the value chain.
+Grow and protect the brand through real -time collaboration across functional boundaries.
+Proactively use data while building a sustainable business.
+\xe2\x80\xa2 Integrate the Route to Market: Become the brand of choice by letting account and field teams plan and execute.
+Drive sales growth through data -driven insights.
+Integrate all B2B sales channels.
+Gain a single source of truth with key account management, field execution, customer service, and channel partner incentives on the Salesforce platform.
+\xe2\x80\xa2 Cultivate Loyal Consumers: Make each consumer digital interaction with your company easy, connected, and personalized.
+Drive the right data strategy to simplify experiential, personalized, and consistent engagement.
+Turn individuals into loyal and repeat c onsumers, no matter where they engage.
+\xe2\x80\xa2 Connect the Consumer Experience: Deliver an Omni -Channel shopper experience that adapts to the rapidly changing paths to purchase.
+Let the shopper select, find, and buy products that are relevant, desired, and aligned to their values.
+\xe2\x80\xa2 Empower the Connected Employee: Equip employees with digital tools that enhance productivity and drive growth with your customers.
+Digitize your HQ and field operations through connected systems and collaboration.
+Salesforce partners with independent software vendors (ISVs) and consultants to extend platform capabilities that suit business processes.
+Other industry -specific integrations and complete solutions are important in a typical business context.
+To learn mor e about ready -to-install applications, solutions, or consultants, check out AppExchange.
+NOTE  To understand which business capabilities, solutions, and Salesforce products can help your organization achieve the business needs identified on the blueprint, review the  Business Scenarios for Consumer Goods .
+Platform Enablers, API, and Data Sources are common across all lifecycle stages and business processes.
+Use platform enablers, APIs, and data sources as a baseline of functionality to support tailored solutions.
+NOTE  To understand how industry and business requirements link to the underlying technologies that support them, review the  Reference Architecture for Consumer Goods .
+Use the industry blueprint as a framework for creating a reference architecture for planning customer experience enhancements.
+Reference Architecture for Consumer Goods  Map specific Salesforce products to the functional capabilities and operational activities of consumer goods organizations.
+Salesforce provides configurable product solutions that support a consumer goods company's ability to effectively engage their customers and partners.
+The reference architecture helps communicate the vision and strategy of a solution to business executives  and stakeholders.
+Learn with Trailhead .
+Our reference architecture presents Functional and Platform capabilities.
+Each layer contains a representative subset of systems or capabilities that are most relevant for consumer goods organizations.
+It doesn't list all possible systems or capabilities.
+http://res.cloudinary.com/dl5hzmrcz/image/upload/v1722341525/uobqyysx5yguhqeov7zc.png   Platform Capabilities  These components form the underlying technology base for achieving your goals.
+Each layer in the platform builds on top of the next.
+B2B systems typically rely on these elements.
+CAPABILITY  DESCRIPTION  Data Sources  Data sources are systems that create, collect, and manage various types of data.
+These systems can act as systems of record.
+They're often purpose -built to handle particular functionality and data requirements, but some provide general system needs.
+Integrations  Integrations include tools and routes that connect systems of record with each other or with higher -level experiences.
+Integrations can include varied tools like APIs that connect separate systems, single sign-on services to manage customer identity across different systems, and custome r data platforms that segment customers.
+Intelligence  Smart automation like machine learning and AI helps you optimize your use of customer data.
+To enhance your customer relationships and drive sales, the intelligence layer serves functions like delivering actionable customer insights, personalized product r ecommendations, and improving real -time customer interactions.
+Analytics  Analytics helps you better understand your data and make smart business decisions.
+\xe2\x80\xa2 Descriptive analytics summarize existing data to help you better understand the current state or past activities.
+Descriptive analytics typically answer \xe2\x80\x9cWhat?\xe2\x80\x9d questions about your data.
+\xe2\x80\xa2 Diagnostic analytics use the output of descriptive analytics to identify patterns and outlier data.
+Diagnostic analytics typically answer \xe2\x80\x9cWhy?\xe2\x80\x9d questions about your data.
+\xe2\x80\xa2 Predictive analytics use historical data to anticipate future outcomes, such as the likelihood that a subscriber opens an email.
+\xe2\x80\xa2 Prescriptive analytics suggest courses of action based on your existing data.
+Prescriptive analytics typically answer \xe2\x80\x9cShould?\xe2\x80\x9d questions about your future actions.
+Platform Enablers  Use common capabilities that drive the business processes across the enterprise.
+Build a unified profile using a customer data platform.
+Drive workflows and engagement based on that unified profile.
+Functional Capabilities  Business -specific elements at the functional capabilities level are connected more directly to the customer's experience and measured in terms of maturity.
+Successful implementation of functional capabilities depends heavily on implementation of the platfo rm capabilities.
+The consumer goods industry is evolving to handle disruption and change.
+The traditional integrated route to markets focused the B2B business model on key account management and field retail execution via sales channels.
+The industry is now starting to eng age end -consumers directly via B2C Commerce and self-service models in partner systems.
+The recent evolution of privacy is also driving marketing changes to understand consumer behavior more directly by gathering more first -party data.
+To identify strategic goals around which to focus your implementation, review common B2C  Business Scenarios for Retail  and their included functional capabilities.
+A Business Capability Maturity Assessment arranged by your Success Manager or Account Executive can help you determine which areas of your business can benefit from more focus.
+Mapping Platform Capabilities to Salesforce  http://res.cloudinary.com/dl5hzmrcz/image/upload/v1722341525/qaf8xlg7ueg67qex5uox.png     Specific Salesforce products handle each of the needs identified at the platform capability level.
+Identify gaps in your underlying capabilities by customizing this model to include other Salesforce products or third -party systems in your current technology stack.
+To explore the reference architecture specific to your business, contact your Success Manager or Account Team.
+Business Scenarios for Consumer Goods  help you better understand your business capabilities and find solutions that support your business goals.
+Learn more about Salesforce products in this industry.
+\xe2\x80\xa2 Consumer Goods Cloud  \xe2\x80\xa2 CPQ  \xe2\x80\xa2 Mulesoft  \xe2\x80\xa2 Commerce  \xe2\x80\xa2 Experience Cloud  \xe2\x80\xa2 Service  \xe2\x80\xa2 Field Service  \xe2\x80\xa2 Sales  \xe2\x80\xa2 Analytics  \xe2\x80\xa2 Work.com  \xe2\x80\xa2 Marketing    Business Capabilities for Manage Key Accounts  Get a detailed view of maturity levels, best practices, and recommended solutions for enhancing sales capabilities for consumer goods organizations.
+Use maturity levels to determine your organization's progress in each capability area.
+Implementing best practices and recommended solutions improve maturity in each area.
+These capabilities represent the most critical capabilities in this business area.
+\xe2\x80\xa2 Territory Management Approach  \xe2\x80\xa2 Account and Contact Management Approach  \xe2\x80\xa2 Account Planning  \xe2\x80\xa2 Sales Forecasting Approach  \xe2\x80\xa2 Opportunity and Pipeline Management  \xe2\x80\xa2 Lead Generation  \xe2\x80\xa2 Quote Management  \xe2\x80\xa2 System Integration  \xe2\x80\xa2 Data Visualization  \xe2\x80\xa2 Customer Communities  Territory Management Approach  Assign sellers to accounts, and ensure that standard objects have a master -detail relationship with accounts.
+Create necessary sharing records, and provide a roll -up mechanism for reporting and forecasting.
+MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  Minimum Level: Practicing  Reporting and forecasting needs are met using Territory Management, but the setup and design of territories in the CRM doesn't support the company's go-to-market strategy.
+Recommended Level: Optimized  Territory management setup supports the go -to-market strategy.
+The process to make updates is cumbersome and time -consuming, and delays are common.
+\xe2\x80\xa2 Invest time in crafting a balanced territory management strategy.
+\xe2\x80\xa2 Specify which sellers sell what products to which customers.
+\xe2\x80\xa2 Establish confidence that the territories are balanced and that each seller has sufficient and equal opportunity to reach their goal.
+\xe2\x80\xa2 Collaborate and communicate transparently to align with the rest of the organization on business impact.
+\xe2\x80\xa2 Establish a consistent territory management process based on the company's go -to-market strategy.
+\xe2\x80\xa2 Establish an account segmentation approach.
+Beginning  \xe2\x80\xa2  Sales Maps Configuration  Get started with Salesforce Maps  \xe2\x80\xa2 Territory Management Basics  Intermediate  \xe2\x80\xa2 Enterprise Territory Management  \xe2\x80\xa2 Define and document territory policies and exceptions.
+\xe2\x80\xa2 Establish a data -centric territory management process with workflows that allow for flexibility and automation.
+Make data -driven decisions to establish and optimize territories.
+Define the area that your reps are responsible for targeting  \xe2\x80\xa2 Salesforce Maps Territory Planning  Analyze and design your sales territories  Account and Contact Management Approach  Establish roles and responsibilities.
+Create, augment, govern, and manage accounts.
+MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  Minimum Level: Practicing  Detailed account profiles provide a holistic view of the customer, such as bookings, account relationships, segment, tier, news, and more.
+Recommended Level: Optimized  A 360 -degree view of the customer exists in a CRM system, including links to other applications and systems with account information.
+\xe2\x80\xa2 To ensure effective account and contact management, foster the right culture.
+\xe2\x80\xa2 Align on the roles within the account and contact management process, and assign specific resources to those roles.
+\xe2\x80\xa2 Align on expectations by role for the account and contact management process.
+\xe2\x80\xa2 To encourage collaboration, create account teams.
+\xe2\x80\xa2 Establish a consistent account and contact management approach.
+\xe2\x80\xa2 Define a process to create an account.
+Align on the criteria for an account profile and what fields must be populated during creation.
+\xe2\x80\xa2 To relate accounts to each other, create an account hierarchy.
+\xe2\x80\xa2 Set up a data governance team that owns and maintains account ownership and rights to creation, editing, and deletion.
+\xe2\x80\xa2 Determine a modern data management (MDM) strategy for accounts and whether to maintain accounts in Salesforce or an outside database.
+\xe2\x80\xa2 To measure the success of account and contact management, align on the leading and lagging indicators.
+\xe2\x80\xa2 Set up the reports and dashboards required to run the business as it Beginning  \xe2\x80\xa2 Consumer Goods Cloud Data Model  Get to know the consumer goods data model  \xe2\x80\xa2 Accounts and Contacts in Retail Execution  \xe2\x80\xa2 Sales Cloud: Considerations for Accounts and Contacts  Strategies for using account data to close deals  \xe2\x80\xa2 Deploy and Use Analytics for Consumer Goods  Get insights on your territory, stores, and sales rep performance with Analytics  relates to account and contact management  Account Planning  Foster team selling, increase customer satisfaction, and decrease customer turnover using a living account plan and business reviews.
+MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  Minimum Level: Practicing  Account plans follow a standardized process in the CRM system, but they aren't automatically connected with the account record information.
+Recommended Level: Optimized  Account plans are living, meaning that they're collaborative and linked with the account record, which drives goal -setting and knowledge -sharing.
+\xe2\x80\xa2 Establish a consistent account planning approach, including aligning on the benefits and cadence of account planning.
+\xe2\x80\xa2 Determine which components of an account plan template the internal team and the customer must populate.
+\xe2\x80\xa2 Craft an online user experience that allows the account plan to be collaborative and living.
+\xe2\x80\xa2 Ensure that account plans define value realization (renewal -driven) and net new business, and plan for specific actions to take throughout the year.
+Beginning  \xe2\x80\xa2 Deploy and Use Analytics for Consumer Goods  Get insights on your territory, stores, and sales rep performance with Analytics  \xe2\x80\xa2 Sales Team Collaboration  Use Salesforce Collaboration Tools to Sell as a Team  \xe2\x80\xa2 Salesforce Anywhere for Customer 360  Use Salesforce Anywhere to sell as a team  \xe2\x80\xa2 Get Started with Sales Agreements  Track target metrics for retail, HoReCa, and professional channels  Intermediate  \xe2\x80\xa2 Calculate Key Performance Indicators  Learn the definitions and calculations of key metrics shown in Einstein Analytics for Consumer Goods dashboards  \xe2\x80\xa2 Explore Einstein Object Detection and CRM Analytics  Improve in -store checks and maximize efficiency  \xe2\x80\xa2 Collaborate with Quip  Learn how your team can work better together with Quip  \xe2\x80\xa2 Use Prebuilt Assets from Mulesoft (AppExchange)  Sales Forecasting Approach  Understand the concepts and methods necessary for successful forecasting.
+MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  Minimum Level: Practicing  Forecasting is handled online using CRM data as the source of truth.
+Recommended Level: Optimized  The organization views the forecasting process as an integral part of a larger cycle that runs from pipeline strategy and programs, opportunity management, and forecasting to management decision -making.
+\xe2\x80\xa2 To ensure effective forecasting, foster the right culture.
+\xe2\x80\xa2 Align on expectations by role.
+\xe2\x80\xa2 Understand the relationship between pipeline management and forecasting, and understand the purpose of forecasting as part of strategic business planning.
+\xe2\x80\xa2 Align on definitions of forecast categories.
+\xe2\x80\xa2 Align forecast categories with opportunity stages, and understand the value of subjectivity.
+\xe2\x80\xa2 Establish a consistent forecasting process based on the company's go-to-market strategy.
+\xe2\x80\xa2 Define a sale.
+\xe2\x80\xa2 Understand the behavior of commit and best case over time, and establish best coaching practices for subpar behaviors.
+\xe2\x80\xa2 Define your weekly snapshot and roll-up cadence.
+Beginning  \xe2\x80\xa2 Leads & Opportunities for Lightning Experience  \xe2\x80\xa2 Sales Accounts and Forecasting  \xe2\x80\xa2 Get the Most Out of Forecasting (Accelerator)  Intermediate  \xe2\x80\xa2 How to Use Einstein Prediction Builder for Opportunity Scoring  \xe2\x80\xa2 How to Use Einstein Prediction Builder to Predict Opportunity Amounts  \xe2\x80\xa2  Territory Based Forecasting (video)  MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  \xe2\x80\xa2 Establish a process for understanding and closing the commit vs.
+quota gap.
+Manage your reps more effectively across territories  \xe2\x80\xa2  Territory Forecasts  Advanced  \xe2\x80\xa2  Einstein Opportunity Scoring  Opportunity and Pipeline Management Approach  Create opportunity stages, define entry and exit criteria to move from stage to stage, and use a sales coaching process to help sellers effectively move opportunities through the pipeline.
+MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  Minimum Level: Practicing  Opportunity stage definitions are consistent and account for nuances across the business, but they're used inconsistently.
+Opportunity teams are created and used to help deal progression.
+Recommended Level: Optimized  Sales reps and managers input and maintain opportunity records to consistently drive value with customers.
+\xe2\x80\xa2 To ensure effective opportunity management, foster the right culture.
+\xe2\x80\xa2 Align on the roles within the opportunity management process.
+Determine expectations by role, and assign specific resources to those roles.
+\xe2\x80\xa2 Encourage collaboration by creating opportunity teams.
+\xe2\x80\xa2 Establish a consistent opportunity management process based on the company's go \xe2\x80\x93to\xe2\x80\x93market strategy.
+\xe2\x80\xa2 Align on a set of sales motions, and define the opportunity process for each motion.
+\xe2\x80\xa2 Define a consistent set of opportunity stages with entry and exit criteria to move from stage to stage.
+\xe2\x80\xa2 Align forecast categories and probabilities to opportunity stages.
+\xe2\x80\xa2 Establish a methodology to drive sales productivity.
+\xe2\x80\xa2 Engage with contacts, manage activities, and track next steps.
+\xe2\x80\xa2 Drive collaboration using online tools.
+Beginning  \xe2\x80\xa2  Collaborate with Quip  \xe2\x80\xa2  Build Great APIs and Integrations with Mulesoft  \xe2\x80\xa2 Use mobile technology to increase seller efficiency.
+Lead Generation  Attract prospective customers to engage with your brand.
+Capture prospective customers as prospects or leads.
+MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  Minimum Level: Practicing  We have somewhat robust awareness and lead generation marketing campaigns, but we haven't used journeys.
+Recommended Level: Optimized  We have fairly robust awareness and lead generation marketing campaigns, and we have customer journeys that are fairly personalized.
+\xe2\x80\xa2 Increase prospective customer engagement by including a call to action message that includes specific details on how to engage.
+\xe2\x80\xa2 Capture and track leads in a CRM system.
+\xe2\x80\xa2 Capture leads by including forms or tags on every page of your site.
+\xe2\x80\xa2 Capture lead information in pop -ups that provide special offers in exchange for the customer's email address.
+\xe2\x80\xa2 Capture leads from Live Chat sessions on your site or through your mobile app.
+\xe2\x80\xa2 Drive engagement with interactive content.
+\xe2\x80\xa2 Amplify lead generation by encouraging sharing in communities and social channels.
+\xe2\x80\xa2 Test to identify the tactics that work best.
+Beginning  \xe2\x80\xa2  Sales Cloud: Manage Leads (Accelerator)  Learn about effective lead management  \xe2\x80\xa2  Generate Leads from Your Website for Your Sales Teams  \xe2\x80\xa2  Get to Know Marketing Cloud  Intermediate  \xe2\x80\xa2  Salesforce & Account Engagement Integration  Align Marketing and Sales Teams with Marketing Cloud Account Engagement Integration  \xe2\x80\xa2  Generate Leads with Account Engagement Landing Pages and Forms  \xe2\x80\xa2  B2B Marketing Analytics Basics  \xe2\x80\xa2  Account Engagement: B2B Marketing Analytics  Advanced  \xe2\x80\xa2  Use Account Engagement with Salesforce  Streamline your sales and marketing efforts into one platform  \xe2\x80\xa2  Take on B2B and B2C Marketing with Account Engagement and Journey Builder  (Solution Kit)  Quote Management  Create, send, and store quotes.
+MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  Minimum Level: Practicing  Multiple quotes can be aligned to an opportunity and can go through an approval process.
+A delegation of authority matrix drives the approval process.
+Recommended Level: Optimized  Integrations exist between the CRM, quoting, and contracting systems to provide visibility and simplify approvals.
+The delegation of authority matrix for approvals is reviewed on a consistent basis.
+\xe2\x80\xa2 Align on the tools and integrations used to support the CPQ process.
+\xe2\x80\xa2 Support the configuration, pricing, and quoting of an opportunity.
+Create a price book with a consistent set of product families with associated products, services, and prices.
+\xe2\x80\xa2 Allow a quote to be generated based on the information provided on an opportunity.
+\xe2\x80\xa2 Enable a methodology to drive CPQ activities in the sales process.
+Set up guided selling to assemble an accurate and complete configuration.
+\xe2\x80\xa2 Determine how to manage discounts.
+\xe2\x80\xa2 Create a delegation of authority matrix and automate the approval process.
+Beginning  \xe2\x80\xa2  Configure Price Books, Templates, and Contracts  Intermediate  \xe2\x80\xa2  Get Started with CPQ (Accelerator)  \xe2\x80\xa2  Get Started with Guided Selling (Accelerator)  \xe2\x80\xa2  Create and Manage an Optimized Product Catalog (Accelerator)  \xe2\x80\xa2  Best Practices for Price Rules  Provide a seamless reorder experience using the negotiated Sales Agreement object in Manufacturing  System Integration  Support planning by giving employees and customers the same view of sell-in and sell -out data, promotion/planogram compliance, stock outs, and trend analysis for volume planning.
+MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  Minimum Level: Practicing  Sales agreements are targeted by month and quarter.
+Recommended Level: Optimized  \xe2\x80\xa2 Review the sales view plan and revenue data and systems.
+\xe2\x80\xa2 Integrate compliance policies, data, and systems.Integrate rebates, data, and systems.
+Beginning  \xe2\x80\xa2  Get Started with Sales Agreements  We engage in joint business planning, use collaborative documents, and have a calendar -centric view of promotions.
+Account -based forecasting is available for net new business from existing customers and beyond the base volume sales agreement.
+\xe2\x80\xa2 Integrate promotions data and systems, including a shared calendar.
+\xe2\x80\xa2 Add collaboration document capability.
+Track target metrics for retail, HoReCa, and professional channels  Intermediate  \xe2\x80\xa2  Build Great APIs and Integrations with Mulesoft  \xe2\x80\xa2  Use Prebuilt Assets from Mulesoft (AppExchange)  Data Visualization  Use visual elements to better express the significance of data.
+MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  Minimum Level: Practicing  Data visualization is a part of the CRM system, but the data isn't always updated in real time.
+The data is accessible by the right users, but the training and delivery method don't always meet seller needs.
+Recommended Level: Optimized  Data visualization tools are integrated and updated in real time.
+The customer -facing sales team can access the interactive sales dashboards from where they work most.
+\xe2\x80\xa2 Establish a process for creating insightful data visualizations, including how visualizations are selected, who sets them up, and how data access is handled.
+\xe2\x80\xa2 Enable employees to act based on insights from data visualization.
+\xe2\x80\xa2 To improve data visualization over time, create a feedback loop.
+\xe2\x80\xa2 Surface actional dashboards to sellers where they work most.
+\xe2\x80\xa2 Ensure that the data visualization tools are connected to the applicable data sources for real -time updates.
+Beginning  \xe2\x80\xa2  Explore with CRM Analytics  Intermediate  \xe2\x80\xa2  Success with Einstein Analytics  \xe2\x80\xa2  Deploy and Use Analytics for Consumer Goods  Use KPIs and data visibility for accountability  Customer Communities  Create and maintain communities in which you can collaborate with your customers on a unified platform to create customer -specific sales agreements and joint business plans.
+MATURITY LEVELS  BEST PRACTICES  RECOMMENDED SOLUTIONS  Minimum Level: Practicing  Collaborative documents are used for sales agreements and joint business planning.
+Recommended Level: Optimized  \xe2\x80\xa2 Determine the set of documents and tools to share with channel partners.
+\xe2\x80\xa2 Provide channel partners with collaborative documents for sales agreements.
+\xe2\x80\xa2 Add joint business planning.
+Beginning  \xe2\x80\xa2  Improve Partner Collaboration with Experience Cloud  A community portal is available with secure logins to access data, reports and dashboards, collaborative sales agreements, and joint business planning.
+Customers can post or upload key information.
+\xe2\x80\xa2 Launch a community portal with secure logins for channel partners to collaborate.
+Provide the ability to post or upload key information.
+\xe2\x80\xa2  Community Cloud: Plan Your Chatter Adoption  (Accelerator)    Solution Architecture for Consumer Goods  Identify the specific tools and resources that can help you deliver comprehensive automation solutions for your consumer goods business.
+Solution architecture diagrams show you how recommended products interoperate with backend systems and how data is passed between them.
+Learn with Trailhead .
+Consumer Goods Solution Architecture with Key Clouds  http://res.cloudinary.com/dl5hzmrcz/image/upload/v1722341525/ou0kx2biiquaxxbik5dg.png   The Salesforce Consumer Goods architecture runs on three highly scalable and interoperable platforms: the core Salesforce Platform, Marketing Cloud, and Commerce Cloud.
+Products built on the Salesforce Platform (1) include Consumer Goods Cloud, Sales, Service, Experience, Order Management System, Loyalty Management, Rebate Management, Asset Management, Field Service, Customer 360 Identity, and Customer 360 Privacy Manager .
+These products run on the same physical platform and share a common data model.
+\xe2\x80\xa2 APIs enable integration with other Salesforce and non -Salesforce platforms.
+\xe2\x80\xa2 The Salesforce Platform can be used for customer master and consent management, or it can integrate with a third -party Master Data Management system.
+\xe2\x80\xa2 Order Management System (OMS) is a Commerce Cloud product, but it runs natively on the core Salesforce Platform.
+\xe2\x80\xa2 CRM Analytics has direct connections to the Salesforce Platform and is best suited for Sales and Service analytics.
+\xe2\x80\xa2 Customer 360 Identity features single sign -on (SSO) and authentication management to ensure employees, customers, and partners sign on safely across all your applications and systems.
+\xe2\x80\xa2 Customer 360 Privacy Center manages data retention, rights, and actively manages consent to ensure compliance with global and local privacy and consent rules.
+\xe2\x80\xa2 Pre-built connectors such as Marketing Cloud Connect go even further to enable other expedited integration options.
+\xe2\x80\xa2 The Salesforce Platform can be used in several ways.
+o As a customer master  o As an editable or non -editable certified copy of customer master data  o To integrate with a third Master Data Management system  Consumer Goods Cloud (2) is a superset of Sales Cloud and Service Cloud features, customized for consumer goods companies.
+It provides other elements within its data model, such as consumer goods -specific objects.
+Consumer Goods Cloud integrates sales, ser vice, and retail execution capabilities to provide a consistent experience across your sales, merchandising, and key account management functions.
+The Salesforce Marketing Cloud (3) is a powerful suite of communication and marketing automation tools designed for interoperability.
+\xe2\x80\xa2 Datorama offers deep marketing analytics.
+\xe2\x80\xa2 Interaction Studio provides real -time interaction management, personalization, and AI -drive recommendations.
+\xe2\x80\xa2 Social Studio enables social monitoring and social media interaction management.
+Data Cloud (4) is Salesforce's enterprise -wide CDP solution.
+Data Cloud delivers a unified profile by bringing together customer source records, transactions, engagement activities, demographics, and signals from first or third -party data sources.
+It provi des marketers a single source of truth for their customer and makes that data available for creating personalized experiences across every touchpoint.
+Commerce Platform (5) is a highly scalable Commerce platform for web and mobile ecommerce.
+AppExchange (6) is the leading enterprise cloud marketplace, with over 4,000 solutions to help extend Salesforce into any department or industry.
+Over 1,000 consultants have deep expertise to drive business transformation.
+Tableau (7) is a business intelligence platform and has direct connections to the rest of the Salesforce ecosystem.
+Tableau provides analytics independent of data sources.
+Mulesoft Anypoint Platform (8) is an integration platform designed for service -oriented architecture (SOA), Software as a Service (SaaS), and APIs.
+Mule ESB, CloudHub iPaaS, API Manager, and hundreds of SaaS and on -premises connectors and templates are the  building blocks of this unique connectivity platform for integration.
+\xe2\x80\xa2 Use APIs to connect applications, data, and devices, both on -premise and in the cloud.
+\xe2\x80\xa2 Rearchitect a service -oriented architecture from legacy systems, proprietary platforms, and customer integration code.
+\xe2\x80\xa2 Migrate technology infrastructure to the public or private cloud, and prioritize adoption of SaaS applications and other cloud technologies.
+\xe2\x80\xa2 Deploy integrations in a hybrid environment, connecting to SaaS applications and on -premises systems.
+Consumer Goods Solution Architecture with Connectors  http://res.cloudinary.com/dl5hzmrcz/image/upload/v1722341526/xpwichnaeqe7njb04mgm.png   Developing point -to-point connections with API solutions allows customer experiences to cross Marketing, Service, and Commerce platform boundaries.
+API Integration (1) allows the Commerce platform to initiate actions in the Marketing platform.
+\xe2\x80\xa2 Track page views, searches, product views, cart contents, and order placement.
+\xe2\x80\xa2 Manage marketing opt -ins, email subscriptions, and preferences.
+\xe2\x80\xa2 Trigger transactional email, including account creation and update messages, password recovery, customer service messages, and order confirmation.
+\xe2\x80\xa2 Trigger behavioral emails, such as messages about abandoned carts, and browse and wish list-related messaging using a combination of productized solutions and API integrations.
+\xe2\x80\xa2 Sync data such as product catalogs, customer information, order details, and promotional details.
+\xe2\x80\xa2 This connector is community code and provides a development framework for customers to follow.
+API Integration (2) integrates Commerce Cloud to Service Cloud.
+The integration allows for data synching between the two clouds to support several use cases.
+\xe2\x80\xa2 Submit cases from a storefront for anonymous or registered customers.
+\xe2\x80\xa2 Retrieve case details for a registered storefront customer from Service Cloud.
+\xe2\x80\xa2 Sync profiles of registered customers and profile -specific addresses between Commerce and Service Clouds.
+\xe2\x80\xa2 Provide Order on Behalf capabilities for service agents within the Service Console.
+\xe2\x80\xa2 Achieve order synchronization by using Salesforce Order Management.
+\xe2\x80\xa2 A community -based solution exists to provide an enablement framework for developing this integration.
+Contact your account team for more information.
+Marketing Cloud Connect  (3) connects Marketing platform products with Sales and Service Cloud products.
+The connector allows data to sync between clouds.
+It also allows Marketing Cloud products to trigger events such as emails and journeys based on Sales and Service Cloud data.
+\xe2\x80\xa2 Automatically sync data from Sales or Service Cloud to Marketing Cloud.
+\xe2\x80\xa2 Connect Journey Builder to other clouds.
+\xe2\x80\xa2 Use Sales and Service Cloud data to construct email.
+\xe2\x80\xa2 Provide Marketing Cloud email tracking data such to Sales and Service Cloud products.
+Distributed Marketing  (4) allows users in Sales and Service Clouds to view, personalize, and send on -brand, best practice content through Marketing Cloud.
+\xe2\x80\xa2 Use data stored in contact, lead, or person account records to address emails.
+\xe2\x80\xa2 Craft email to a segment of customers based on a list view.
+\xe2\x80\xa2 Send email about a campaign to a group of customers based on a touchpoint cadence managed by Marketing Cloud.
+Social Customer Service  (5) turns social network posts into case or lead records.
+'
