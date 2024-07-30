@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DocMorph
 
-## Getting Started
+DocMorph is a simple web-based document transformer application designed to process PDF documents with defined styles. This tool extracts images, text, and embedded hyperlinks from PDF files and organizes the content into a clean, structured format. The application stores extracted images on Cloudinary and integrates their links at the corresponding positions in the document. Additionally, all hyperlinks are collected and placed at the end of the document, ensuring a well-organized output. The main advantage of this application is that any person having trouble in make embeddings for some document can easily place his desired text inside the pdf which will later be parsed and simplified for making embeddings for his AI chat bots and much more.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Text Extraction**: Extracts text from PDF documents and structures it into sentences.
+- **Image Extraction**: Extracts images from PDFs and stores them on Cloudinary, with links integrated into the document.
+- **Hyperlink Extraction**: Extracts embedded hyperlinks and appends them to the end of the document.
+- **Structured Output**: Provides a text-based file that includes all extracted data in a user-friendly format.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Frontend**: [Next.js](https://nextjs.org/) - A React framework for server-rendered applications.
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for styling.
+- **Image Storage**: [Cloudinary](https://cloudinary.com/) - A cloud-based image and video management platform.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
+- **Next.js**: For building the web interface and handling server-side logic.
+- **Tailwind CSS**: For styling and responsive design.
+- **Cloudinary**: For storing and managing images extracted from PDF files.
 
-To learn more about Next.js, take a look at the following resources:
+## How It Works
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Upload PDF**: Users upload a PDF document with specific styles.
+2. **Processing**: The application processes the document, extracting text, images, and hyperlinks.
+3. **Output Generation**: Text is divided into sentences using nlp transformers, images are uploaded to Cloudinary with their links embedded in the text, and hyperlinks are appended to the end of the document.
+4. **Download**: Users can download the transformed document in a clean, structured format.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## ScreenShots
+![dm1](https://github.com/user-attachments/assets/a335ea01-192e-402f-ae3d-82833c243de0)
+![dm2](https://github.com/user-attachments/assets/d57622cd-f110-4bce-96de-dbeed6d50dbb)
+![dm3](https://github.com/user-attachments/assets/cb0f7774-28b1-4e38-9883-ea3608f3e10f)
+![dm4](https://github.com/user-attachments/assets/2f28bd46-ddee-4900-a05c-d90bbff6d57b)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
