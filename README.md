@@ -30,8 +30,13 @@ DocMorph is a simple web-based document transformer application designed to proc
 
 
 ## ScreenShots
+Home screen of this application
 ![dm1](https://github.com/user-attachments/assets/a335ea01-192e-402f-ae3d-82833c243de0)
+
+On clicking the download file button, we get
 ![dm2](https://github.com/user-attachments/assets/d57622cd-f110-4bce-96de-dbeed6d50dbb)
+
+We got Links of data at bottom of document and all the text embedded with images at first part of text file
 ![dm3](https://github.com/user-attachments/assets/cb0f7774-28b1-4e38-9883-ea3608f3e10f)
 ![dm4](https://github.com/user-attachments/assets/2f28bd46-ddee-4900-a05c-d90bbff6d57b)
 
