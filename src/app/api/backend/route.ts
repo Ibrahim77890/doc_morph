@@ -10,10 +10,38 @@ import { v2 as cloudinary } from 'cloudinary'
 import OpenAI from "openai";
 import PDFParser from "pdf2json";
 
-const api_key = process.env.OPENAI_API_KEY!;
-const openai = new OpenAI({
-    apiKey: api_key,
-})
+// const api_key = process.env.OPENAI_API_KEY!;
+// const openai = new OpenAI({
+//     apiKey: api_key,
+// })
+
+// Mock class to prevent crashes during local testing
+class OpenAIMock {
+    apiKey: string;
+    constructor({ apiKey }: { apiKey: string }) {
+        this.apiKey = apiKey;
+        console.log("🛠️ OpenAI Mock Initialized (No API calls will be made)");
+    }
+
+    // Add mock methods here if you use them later in the code
+    chat = {
+        completions: {
+            create: async (params: any) => {
+                console.log("Mocking Chat Completion for:", params.messages);
+                return {
+                    choices: [{ message: { content: "This is a mock response." } }]
+                };
+            }
+        }
+    };
+}
+
+// Check if we are in development/mock mode
+const isMockMode = !process.env.OPENAI_API_KEY || process.env.OPENAI_API_KEY === "mock_key";
+
+const openai = isMockMode 
+    ? new OpenAIMock({ apiKey: "mock_key" }) as unknown as OpenAI 
+    : new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 cloudinary.config({
     cloud_name: process.env.CLOUDINARY_CLOUD_NAME!,
